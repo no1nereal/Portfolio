@@ -55,8 +55,8 @@ body{
     object-fit: cover;
     transform: scale(140%) translateY(5px);
     filter: drop-shadow(3px 3px 5px rgba(161, 97, 0, 0.842));
-    filter: sepia(24%) brightness(0.9) contrast(0.95);
-    opacity: 0.92;
+    filter: sepia(11%) brightness(0.91) contrast(0.94);
+    opacity: 0.96;
 
 }
 
